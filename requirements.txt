@@ -1,0 +1,14 @@
+aiogram~=2.14
+environs~=8.0.0
+loguru~=0.5.3
+asyncpg~=0.24.0
+Django==3.1.14
+psycopg2-binary
+jsonfield
+asgiref~=3.4.1
+uuid~=1.30
+pip~=21.2.4
+setuptools~=41.2.0
+requests~=2.27.1
+django-jazzmin
+better_profanity
